@@ -1,3 +1,2 @@
 # hello-world
-hello
-My name is Huang Ming
+Hello, my name is Huang Ming
